@@ -1,4 +1,1 @@
-| Header | Another header | Yet another header |
-|--- |--- |--- |
-| row 1 | column 2 | column 3 |
-| row 2 | row 2 column 2 | row 2 column 3 |
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
